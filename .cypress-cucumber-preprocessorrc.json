@@ -1,0 +1,7 @@
+﻿{
+  "stepDefinitions": [
+    "cypress/e2e/[filepath]/**/*.ts",
+    "cypress/e2e/[filepath].ts",
+    "global-steps/*.ts"
+  ]
+}
